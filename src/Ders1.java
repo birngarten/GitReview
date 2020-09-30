@@ -7,6 +7,10 @@ public class Ders1 {
 		
 		System.out.println("remote'dan merhaba");
 		
+		System.out.println("local'dan merhaba");
+		
+		System.out.println("local'dan neden git miyor?");
+		
 
 	}
 
