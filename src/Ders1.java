@@ -5,6 +5,8 @@ public class Ders1 {
 		
 		System.out.println("merhaba");
 		
+		System.out.println("remote'dan merhaba");
+		
 
 	}
 
